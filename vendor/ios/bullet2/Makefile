@@ -1,3 +1,7 @@
+################################################################################
+## Copyright (C) 2014 Daniel C Grigg 																					##
+################################################################################
+
 XBUILD=/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild
 PRODUCT=bullet2
 PRODUCT_ROOT=../../downloads/${PRODUCT}
